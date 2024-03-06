@@ -318,7 +318,7 @@ L.marker([-3644, 3420], {icon: cardIcon4}).addTo(map)
   .bindPopup("<h2>Route 68 2</h2><p><a href='https://i.imgur.com/EOJY9iA.jpeg' data-lightbox='image-1' data-title='Route 68 2'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-4307, 2222], {icon: cardIcon4}).addTo(map)
   .bindPopup("<h2>Tongva Hills 1</h2><p><a href='https://i.imgur.com/XAr24nv.jpeg' data-lightbox='image-1' data-title='Tongva Hills 1'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
-L.marker([-5471, 28753], {icon: cardIcon3}).addTo(map)
+L.marker([-5471, 2873], {icon: cardIcon3}).addTo(map)
   .bindPopup("<h2>Vinewood 14</h2><p><a href='https://i.imgur.com/6SsfcZ9.jpeg' data-lightbox='image-1' data-title='Vinewood 14'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-3314, 4789], {icon: cardIcon14}).addTo(map)
   .bindPopup("<h2>Sandy Shores 7</h2><p><a href='https://i.imgur.com/qVb0GvN.png' data-lightbox='image-1' data-title='Sandy Shores 7'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
